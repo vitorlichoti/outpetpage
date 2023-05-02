@@ -1,0 +1,197 @@
+.header-container {
+  background-color: rgba(79, 35, 92, 0.95);
+  font-family: Uni Neue,sans-serif;
+  color: #FFF;
+  position: fixed;
+  width: 100%;
+}
+
+input {
+  width: 450px;
+  height: 38px;
+  border-radius: 50px;
+}
+
+.nav-container {
+  margin-left: 10%;
+  border-radius: 50%;
+}
+
+.lupa input {
+  position: relative;
+}
+
+.lupa img {
+  top: 16px;
+  width: 45px;
+  left: 1020px;
+  position: absolute;
+}
+
+.lupa img:hover {
+  cursor: pointer;
+}
+
+.nav-container img {
+  display: inline-block;
+  margin-left: 10%;
+  margin-top: 10px;
+}
+
+#vertical-bar {
+  font-size: 20px;
+}
+
+.user-container p {
+  display: inline-block;
+}
+
+.top-nav-container {
+  text-align: center;
+  margin-top: -100px;
+  margin-bottom: 30px;
+  margin-left: 100px;
+}
+
+.top-nav-container li {
+  display: inline-block;
+  margin-right: 70px;
+}
+
+.bottom-nav-container {
+  text-align: center;
+}
+
+.nav-links {
+  color: #FFF;
+  font-weight: 700;
+}
+
+.nav-links:hover {
+  color: #D4D901;
+}
+
+.bottom-nav-container li {
+  display: inline-block;
+  margin-right: 100px;
+  margin-bottom: 15px;
+}
+
+.icon-text-container img, h5, p {
+  display: inline-block;
+}
+
+.icon-text-container h5 {
+  font-size: 18px;
+  color: red;
+  font-weight: 700;
+  font-family: Uni Neue,sans-serif;
+  position: relative;
+  margin-left: 10px;
+  top: -25px;
+}
+
+.icon-text-container p {
+  font-size: 15px;
+  font-family: Uni Neue,sans-serif;
+  position: relative;
+  margin-left: -105px;
+  top: -5px;
+}
+
+.text-complement {
+  width: 100%;
+  text-align: center;
+}
+
+.text-complement li {
+  display: inline-block;
+  margin-right: 100px;
+  margin-top: 40px;
+}
+
+.categories-container {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.categories-container li {
+  display: inline-block;
+}
+
+#parcela {
+  margin-left: -155px;
+}
+
+#desconto {
+  margin-left: -155px;
+}
+
+#retire {
+  margin-left: -120px;
+}
+
+#title-categories {
+  color: #4F235C;
+  font-family: Uni Neue,sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 60px;
+  margin-top: 50px;
+}
+
+#bravecto-text {
+  color: #4F235C;
+  font-family: Uni Neue,sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 60px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.card-main-container {
+  position: relative;
+  margin-left: 15%;
+  margin-top: 8px;
+  border: solid 2px #FFF;
+}
+
+.card-container {
+  padding: 10px 4px;
+}
+
+.card-main-container li {
+  display: inline-block;
+  width: 250px;
+  box-shadow: 2px 2px 5px 2px #5252525f;
+  border-radius: 15px;
+  text-align: center;
+  height: 350px;
+  margin-right: 10px;
+}
+
+.card-container p {
+ margin-top: 30px;
+}
+
+.image-container {
+  position: relative;
+}
+
+.desconto-image {
+  position: absolute;
+  top: 0;
+}
+
+.text-container span {
+  margin-top: 15px;
+}
+
+.animais-container {
+  margin-top: 80px;
+}
+
+.animais-container img {
+  display: inline-block;
+}

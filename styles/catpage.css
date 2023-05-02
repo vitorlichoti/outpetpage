@@ -1,0 +1,32 @@
+.navigate {
+  position: relative;
+  top: 140px;
+  color: black;
+}
+
+#cat {
+  color: rgb(140, 223, 6);
+  font-weight: 700;
+}
+
+#catimage {
+  position: relative;
+  top: 155px;
+}
+
+.cat-title {
+  position: relative;
+  top: 205px;
+  text-align: center;
+  width: 100%;
+  font-size: 35px;
+  color: #4F235C;
+  font-family: Uni Neue,sans-serif;
+}
+
+.cat-title hr {
+  height: 2px;
+  background-color: rgb(48, 141, 255);
+  width: 25px;
+  margin-top: -1px;
+}

@@ -1,0 +1,32 @@
+.navigate {
+  position: relative;
+  top: 140px;
+  color: black;
+}
+
+#farmacia {
+  color: rgb(140, 223, 6);
+  font-weight: 700;
+}
+
+#farmaciaimage {
+  position: relative;
+  top: 155px;
+}
+
+.farmacia-title {
+  position: relative;
+  top: 205px;
+  text-align: center;
+  width: 100%;
+  font-size: 35px;
+  color: #4F235C;
+  font-family: Uni Neue,sans-serif;
+}
+
+.farmacia-title hr {
+  height: 2px;
+  background-color: rgb(48, 141, 255);
+  width: 45px;
+  margin-top: -1px;
+}
